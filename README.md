@@ -1,3 +1,3 @@
-# Xpress-Studio
+# Xpress Studio Ultimate
 
 (c) Alware Corporation. All rights reserved.
