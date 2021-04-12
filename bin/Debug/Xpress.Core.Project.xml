@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Xpress.Core.Project
+</name>
+</assembly>
+<members>
+<member name="T:Xpress.Core.Project.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:Xpress.Core.Project.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:Xpress.Core.Project.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+<member name="P:Xpress.Core.Project.My.Resources.Resources.AppConfig">
+<summary>
+  Recherche une chaîne localisée semblable à &lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot; ?&gt;
+&lt;configuration&gt;
+    &lt;startup&gt; 
+        &lt;supportedRuntime version=&quot;v4.0&quot; sku=&quot;.NETFramework,Version=v4.5&quot; /&gt;
+    &lt;/startup&gt;
+&lt;/configuration&gt;.
+</summary>
+</member>
+<member name="P:Xpress.Core.Project.My.Resources.Resources.SolutionFile">
+<summary>
+  Recherche une chaîne localisée semblable à #Xpress Studio 21 Solution Generator
+
+[Project]
+Namespace=DefaultNamespace
+Name=DefaultName
+Framework=DefaultFramework
+Type=DefaultType
+
+[Debug]
+ObjectStartup=DefaultObjectStartup.
+</summary>
+</member>
+</members>
+</doc>
